@@ -1,16 +1,22 @@
-# quotes_netninja
+## Inspiration
+We are big believers in learning from other peoples mistakes and wisdom. Each and every individual person learns through experience but it shouldn't have to take living 90 years to find the best way to live. That is why we created LifeHack as a community of people looking to share lessons that they have learned in their life and to be able to learn from others peoples lessons as well.
 
-A new Flutter application.
+## What it does
+It is simply just a cross platform app that allows you to read peoples lessons, star them, and post your own.
 
-## Getting Started
+## How we built it
+We decided to take on the challenge of learning a completely new language, framework and BaaS. The MVP app was built with Dart and Flutter which myself and my partner were completely new to. We also attempted to get it connected to Firebase which was also new for us.
 
-This project is a starting point for a Flutter application.
+## Challenges we ran into
+The biggest challenge was learning everything and building the MVP at the same time.
 
-A few resources to get you started if this is your first Flutter project:
+## Accomplishments that we're proud of
+Mostly, we are proud that this project had given us an excellent opportunity to learn the language and framework and apply it to a project at the same time. Although it does not work completely, it is progress that we are proud of and are excited to continue learning Flutter.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## What we learned
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What's next for LifeHack
+Next for LifeHack is:
+1) add authentication, 
+2) make it scalable and connect it to firebase
+3) improve the UI/UX.
