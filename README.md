@@ -14,7 +14,9 @@ The biggest challenge was learning everything and building the MVP at the same t
 Mostly, we are proud that this project had given us an excellent opportunity to learn the language and framework and apply it to a project at the same time. Although it does not work completely, it is progress that we are proud of and are excited to continue learning Flutter.
 
 ## What we learned
-
+1) Dart
+2) Flutter
+3) Basics of Firebase
 ## What's next for LifeHack
 Next for LifeHack is:
 1) add authentication, 
